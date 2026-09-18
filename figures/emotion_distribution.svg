@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 470" role="img">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<title>CREMA-D emotion distribution</title>
+<text x="38" y="48" font-size="25" font-family="Arial" font-weight="bold" fill="#1d2933">CREMA-D emotion distribution</text>
+<text x="38" y="75" font-size="14" font-family="Arial" fill="#52606d">7,442 clips · 91 speakers · intended emotion from official filenames</text>
+<text x="38" y="133" font-size="17" font-family="Arial" fill="#1d2933">Angry</text>
+<rect x="145" y="112" width="560" height="30" rx="4" fill="#247f87"/>
+<text x="717" y="133" font-size="16" font-family="Arial" fill="#1d2933">1,271 (17.1%)</text>
+<text x="38" y="190" font-size="17" font-family="Arial" fill="#1d2933">Disgust</text>
+<rect x="145" y="169" width="560" height="30" rx="4" fill="#247f87"/>
+<text x="717" y="190" font-size="16" font-family="Arial" fill="#1d2933">1,271 (17.1%)</text>
+<text x="38" y="247" font-size="17" font-family="Arial" fill="#1d2933">Fear</text>
+<rect x="145" y="226" width="560" height="30" rx="4" fill="#247f87"/>
+<text x="717" y="247" font-size="16" font-family="Arial" fill="#1d2933">1,271 (17.1%)</text>
+<text x="38" y="304" font-size="17" font-family="Arial" fill="#1d2933">Happy</text>
+<rect x="145" y="283" width="560" height="30" rx="4" fill="#247f87"/>
+<text x="717" y="304" font-size="16" font-family="Arial" fill="#1d2933">1,271 (17.1%)</text>
+<text x="38" y="361" font-size="17" font-family="Arial" fill="#1d2933">Neutral</text>
+<rect x="145" y="340" width="479" height="30" rx="4" fill="#247f87"/>
+<text x="636" y="361" font-size="16" font-family="Arial" fill="#1d2933">1,087 (14.6%)</text>
+<text x="38" y="418" font-size="17" font-family="Arial" fill="#1d2933">Sad</text>
+<rect x="145" y="397" width="560" height="30" rx="4" fill="#247f87"/>
+<text x="717" y="418" font-size="16" font-family="Arial" fill="#1d2933">1,271 (17.1%)</text>
+</svg>

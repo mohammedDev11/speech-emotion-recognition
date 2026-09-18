@@ -1,0 +1,3 @@
+# Dataset exploration and SVG figure generation use Python 3.10+ standard library only.
+# Add model dependencies when training begins in a later milestone.
+

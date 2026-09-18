@@ -1,0 +1,7 @@
+filename,emotion,sample_rate_hz,duration_s,peak_amplitude,rms_amplitude
+1001_IEO_ANG_MD.wav,Angry,16000,2.636,0.2560,0.0284
+1001_IEO_DIS_MD.wav,Disgust,16000,1.902,0.3175,0.0199
+1001_IEO_FEA_MD.wav,Fear,16000,1.602,0.3971,0.0454
+1001_IEO_HAP_MD.wav,Happy,16000,1.668,0.4478,0.0408
+1001_IEO_NEU_XX.wav,Neutral,16000,1.602,0.1308,0.0151
+1001_IEO_SAD_MD.wav,Sad,16000,1.735,0.1205,0.0123

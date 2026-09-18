@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/raw/
+data/cache/
+*.wav
+*.mp3
+*.flv
+*.mp4
+
